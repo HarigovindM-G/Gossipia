@@ -62,20 +62,22 @@ Commands to be used
          
 
 ### Project Documentation
-For Software:
-
+For Software: 
+![Documentation Link](https://docs.google.com/document/d/1jd3N9hqh99jqsHhiuT-puOXv2QPRUSgJm7BZSX1emGo/edit?tab=t.0#heading=h.eb3r1w4k5254)
+Design prototype:
+![Figma file](https://www.figma.com/proto/36XnCBr4JK0MCNAoMxeGBw/Gossipia?node-id=330-762&t=vOKnKzIJkN7myTnB-1)
 
 ## Screenshots
 *Screenshot 1:*  
-![Screenshot1](Add screenshot 1 here with a proper name)  
+![Screenshot1](https://drive.google.com/file/d/1UNthkAtjl4R1oE4885F7rdjm3foG-HHZ/view?usp=sharing)  
 Caption: This screenshot shows the initial home page where users can view existing gossips.
 
 *Screenshot 2:*  
-![Screenshot2](Add screenshot 2 here with a proper name)  
+![Screenshot2]((https://drive.google.com/file/d/1HECoA5Pe6x5mAWccuvk6F4G5XJt5EO8T/view?usp=sharing))  
 Caption: This screenshot demonstrates the user submission form for sharing new gossip.
 
 *Screenshot 3:*  
-![Screenshot3](Add screenshot 3 here with a proper name)  
+![Screenshot3](https://drive.google.com/file/d/1poX0dePJb_WpY4vYfVvi5r4zxY_a3hTt/view?usp=sharing)  
 Caption: This screenshot displays the confirmation message after successfully posting gossip.
 
 
