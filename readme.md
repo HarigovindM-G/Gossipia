@@ -62,21 +62,24 @@ Commands to be used
          
 
 ### Project Documentation
-For Software:
+For Software:https://docs.google.com/document/d/1jd3N9hqh99jqsHhiuT-puOXv2QPRUSgJm7BZSX1emGo/edit?usp=sharing
 
 
 ## Screenshots
 *Screenshot 1:*  
 ![Screenshot1](Add screenshot 1 here with a proper name)  
-Caption: This screenshot shows the initial home page where users can view existing gossips.
+Caption: This screenshot shows the initial home page w![Screenshot (209)](https://github.com/user-attachments/assets/376c3d12-3c36-483b-9e09-28ce19468a0b)
+here users can view existing gossips.
 
 *Screenshot 2:*  
 ![Screenshot2](Add screenshot 2 here with a proper name)  
-Caption: This screenshot demonstrates the user submission form for sharing new gossip.
+Caption: This screenshot demonstrates the user submission form![Screenshot (210)](https://github.com/user-attachments/assets/496bc714-f398-41ec-81c0-9ad2122e3558)
+ for sharing new gossip.
 
 *Screenshot 3:*  
 ![Screenshot3](Add screenshot 3 here with a proper name)  
-Caption: This screenshot displays the confirmation message after successfully posting gossip.
+Caption: This screenshot displays the confirmat![Screenshot (211)](https://github.com/user-attachments/assets/0f143ff6-648a-4937-9fdb-283b3523b25e)
+ion message after successfully posting gossip.
 
 
 # Diagrams
