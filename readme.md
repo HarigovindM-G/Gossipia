@@ -65,20 +65,23 @@ Commands to be used
 For Software:
 
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+## Screenshots
+*Screenshot 1:*  
+![Screenshot1](Add screenshot 1 here with a proper name)  
+Caption: This screenshot shows the initial home page where users can view existing gossips.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+*Screenshot 2:*  
+![Screenshot2](Add screenshot 2 here with a proper name)  
+Caption: This screenshot demonstrates the user submission form for sharing new gossip.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Screenshot 3:*  
+![Screenshot3](Add screenshot 3 here with a proper name)  
+Caption: This screenshot displays the confirmation message after successfully posting gossip.
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
+![Workflow]((https://drive.google.com/file/d/1NEtL2pbSPeqKN9ApZWZd78m6PILJNR3O/view?usp=sharing))
+This diagram illustrates the flow of data from user submission to data storage and display.
 
 ### Project Demo
 # Video
@@ -86,6 +89,6 @@ For Software:
 This video shows the working flow of our app.
 
 ## Team Contributions
-- Harigovind M G: [Specific contributions]
-- Treesa George: [Specific contributions]
-- Anna Michael: [Specific contributions]
+- Harigovind M G: Frontend & Backend,Github
+- Treesa George: UI/UX designing,Frontend,Documentation,Github
+- Anna Michael: Logo designing,Frontend,Documentation
