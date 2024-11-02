@@ -73,7 +73,7 @@ Design prototype:
 Caption: This screenshot shows the initial home page where users can view existing gossips.
 
 *Screenshot 2:*  
-[[Screenshot2]]((https://drive.google.com/file/d/1HECoA5Pe6x5mAWccuvk6F4G5XJt5EO8T/view?usp=sharing))  
+[[Screenshot2]](https://drive.google.com/file/d/1HECoA5Pe6x5mAWccuvk6F4G5XJt5EO8T/view?usp=sharing)
 Caption: This screenshot demonstrates the user submission form for sharing new gossip.
 
 *Screenshot 3:*  
