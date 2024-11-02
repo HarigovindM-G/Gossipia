@@ -11,39 +11,59 @@
 - Member 3:  Anna Michael -  Cochin University College of Engineering Kuttanad,CUSAT
 
 ### Project Description
-A fun, pointless app where users can submit gossips as an anonymous one or as a verified one.
-It gets stored forever, creating an unchangeable “gossip chain.” It’s completely decentralized
-and doesn’t verify or fact-check anything—just a way to immortalize random, trivial rumors...
+Gossipia is a fun and pointless online platform where users can anonymously share and discover juicy gossip, scandals, and rumors.
+It gets stored forever, creating an unchangeable “gossip chain". Explore unfiltered submissions, indulge in the latest scoops, and
+join the conversation. No holds barred, no secrets kept. Dive into the wild world of gossip. It's just a way to immortalize random, trivial rumors...
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Gossip withdrawal symptoms due to lack of juicy, unverified, and potentially scandalous information
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+- If an anonymous user shares a gossip with a secret code just like a password then he/she can delete it just by using that password
+- Submit anonymous gossip (because secrets are too mainstream)
+- Unfiltered, uncensored, and utterly unverified (you've been warned)
 
 ## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+### Technologies Used
+Software Project:
+- Languages used - Javascript
+- Frameworks used 
+           - Frontend - Next js
+           - Backend - Express
+- Libraries used - Tailwind CSS, Mongoose (Mongo DB)
+- Tools used - Docker(for containerization), Nodemon
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
-For Software:
+Software:
+ 
 # Installation
-[commands]
+Commands to be used
+- Frontend
+  cd gossipia-frontend
+  npm install 
+  npm run dev
+- Backend
+  cd server
+  yarn install
+  docker-compose up --build
+         
 
 # Run
-[commands]
+Commands to be used
+- Frontend
+  cd gossipia-frontend
+  npm install 
+  npm run dev
+- Backend
+  cd server
+  yarn install
+  docker-compose up --build
+         
 
 ### Project Documentation
 For Software:
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -59,34 +79,13 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+[[Project working demo]](https://youtu.be/LdnV0377JM0)
+This video shows the working flow of our app.
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Harigovind M G: [Specific contributions]
+- Treesa George: [Specific contributions]
+- Anna Michael: [Specific contributions]
